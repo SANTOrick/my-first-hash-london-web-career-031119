@@ -1,5 +1,5 @@
 def my_hash
-puts {Mine => nil}
+puts {"mine" => nil}
 end
 
 
